@@ -1,3 +1,1 @@
-# graphql-mern-project
-# webGraphQLAPI
-# webGraphQLAPI
+# mern-project-with-graphql_api
